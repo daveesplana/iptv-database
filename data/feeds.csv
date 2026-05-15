@@ -3209,7 +3209,8 @@ BeeTV7Butuan.ph,SD,SD,,TRUE,c/PH,Asia/Manila,eng;fil,480i
 BeffroiVision.fr,SD,SD,,TRUE,c/FR,Europe/Paris,fra,576i
 BegumTV.af,SD,SD,,TRUE,c/AF,Asia/Kabul,prd,576i
 BeharTV.ba,SD,SD,,TRUE,c/BA,Europe/Sarajevo,bos,576i
-BeijingSatelliteTV.cn,SD,SD,,TRUE,c/CN,Asia/Shanghai,zho,576i
+BeijingSatelliteTV.cn,HD,HD,,TRUE,c/CN,Asia/Shanghai,zho,1080p
+BeijingSatelliteTV.cn,SD,SD,,FALSE,c/CN,Asia/Shanghai,zho,576i
 beIN4K.qa,SD,SD,,TRUE,c/QA,Asia/Qatar,ara,576i
 beINBoxOffice1.qa,SD,SD,,TRUE,r/MENA,Asia/Qatar,ara,576i
 beINBoxOffice1.tr,SD,SD,,TRUE,c/TR,Europe/Istanbul,tur,576i
