@@ -1162,7 +1162,8 @@ AlbaXXXHD2.ru,SD,SD,,TRUE,c/RU,Europe/Moscow,eng,576i
 AlbdreamsTV.us,SD,SD,,TRUE,c/US,America/New_York,sqi,480i
 AlberdiNETTV.py,SD,SD,,TRUE,c/PY,America/Asuncion,spa,576i
 AlBinaaTV.id,SD,SD,,TRUE,c/ID,Asia/Jakarta,ind,576i
-AlbKanaleMusicTV.al,SD,SD,,TRUE,c/AL,Europe/Tirane,sqi,576i
+AlbKanaleMusicTV.al,HD,HD,,TRUE,c/AL,Europe/Tirane,sqi,1080p
+AlbKanaleMusicTV.al,SD,SD,,FALSE,c/AL,Europe/Tirane,sqi,576i
 AlbMusik.al,SD,SD,,TRUE,c/AL,Europe/Tirane,sqi,576i
 AlborzTV.ir,SD,SD,,TRUE,c/IR,Asia/Tehran,fas,576i
 AlbrandswaardTV.nl,SD,SD,,TRUE,c/NL,Europe/Amsterdam,nld,576i
